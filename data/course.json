@@ -1,0 +1,49 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Atmospheric Science"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Oceanography"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Fluid Mechanics"
+    ],
+    [
+      "Engineering",
+      "Ocean Engineering",
+      "Hydrodynamics"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "681a965d-37cd-841b-35a8-16c06d3d7d8a",
+      "d611afa5-56fb-9311-806f-323a785e0dcc",
+      "1bb66b66-48d0-3df2-18b3-13c891987de6"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Atmospheric and Oceanic Modeling",
+  "course_description": "The numerical methods, formulation and parameterizations used in models of the circulation of the atmosphere and ocean will be described in detail. Widely used numerical methods will be the focus but we will also review emerging concepts and new methods. The numerics underlying a hierarchy of models will be discussed, ranging from simple GFD models to the high-end GCMs. In the context of ocean GCMs, we will describe parameterization of geostrophic eddies, mixing and the surface and bottom boundary layers. In the atmosphere, we will review parameterizations of convection and large scale condensation, the planetary boundary layer and radiative transfer.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.950",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets with Solutions"
+  ],
+  "title": "Course Metadata"
+}
